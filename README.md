@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 💬 Ask me about **react, flutter, express**
+- 💬 Ask me about **react, flutter, express, python, seaborn and the general data analysis process**
 
 - 📫 How to reach me **info.snyamson@gmail.com**
 
