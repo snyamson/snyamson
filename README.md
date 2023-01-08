@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Solomon Nyamson</h1>
-<h3 align="center">A passionate fullstack flutter developer and data analyst from Ghana.</h3>
+<h3 align="center">A passionate data analyst and flutter developer from Ghana.</h3>
 
-- 🔭 I’m currently working on [Bapways Integrated Management System](https://github.com/snyamson/bapways_integrated_system)
+ - 🔭 I’m currently working on **Exploring housing prices in Mexico dataset**
 
-- 🌱 I’m currently learning **Data Analysis with Udacity (ALX-T Data Analyst)**
+- 🌱 I’m currently learning **Applied Data Science with World Quant University**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 💬 Ask me about **react, flutter, express, python, seaborn and the general data analysis process**
+- 💬 Ask me about **Python, Data Wrangling, Model Building, Predictive Modeling**
 
 - 📫 How to reach me **info.snyamson@gmail.com**
 
