@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Data Wrangling, Model Building, Predictive Modeling**
 
-- 📫 How to reach me **info.snyamson@gmail.com**
+- 📫 How to reach me **s.nyamson@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
