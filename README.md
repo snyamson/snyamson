@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Solomon Nyamson</h1>
-<h3 align="center">A passionate data analyst and aspiring Machine Learning Specialist from Ghana.</h3>
+<h3 align="center">A passionate Data Scientist and aspiring Machine Learning Specialist from Ghana.</h3>
 
 - 🔭 I’m currently working on **Super Store Time Series Forecasting**
 
